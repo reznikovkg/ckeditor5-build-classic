@@ -3,6 +3,8 @@
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
+import '../theme/classiceditor.css';
+
 // The editor creator to use.
 // import ClassicEditorBase from '@ckeditor/ckeditor5-editor-classic/src/classiceditor';
 import ClassicEditorDecoupled from '@ckeditor/ckeditor5-editor-decoupled/src/decouplededitor';
