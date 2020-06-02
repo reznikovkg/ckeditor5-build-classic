@@ -22,7 +22,8 @@
   ],
   "main": "./build/ckeditor.js",
   "files": [
-    "build"
+    "build",
+    "theme"
   ],
   "devDependencies": {
     "@ckeditor/ckeditor5-alignment": "^19.0.1",
